@@ -3,6 +3,6 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m @MA
-- 💞️ Friendly reminder: Famous grass has its own owner
+- [💞️](https://tanyajun.gitee.io/) Friendly reminder: Famous grass has its own owner
 - :meat_on_bone: Welcome to BIN world
 <!-- ![Shining stars](https://github-readme-stats.vercel.app/api?username=MartyAlien&show_icons=true&theme=onedark) -->
