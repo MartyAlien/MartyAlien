@@ -10,7 +10,10 @@
 
 <p align="right"><i>——Taken in 2023, Shitang Town, Wenling City</i></p>
 
+------------------------
 
+<h3>🎉You are the: </h3>
+<p align="center"><img src="https://profile-counter.glitch.me/MartyAlien/count.svg" style="width:100%"/></p>
 
 ------------------------
 
