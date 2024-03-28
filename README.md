@@ -17,9 +17,9 @@
 
 ------------------------
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MartyAlien&show_icons=true&icon_color=f92f60&text_color=fffbe5&hide_title=true&theme=dark" />
 
 <h2 align="left">About me</h2>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MartyAlien&show_icons=true&icon_color=f92f60&text_color=fffbe5&hide_title=true&theme=dark" />
 
 > 👋 Hi, I’m @MA, or you can call me: Li bai, which is my Jianghu title.
 > 
@@ -28,3 +28,4 @@
 > [💞️](https://tanyajun.gitee.io/) Friendly reminder: Famous grass has its own owner
 > 
 > 🙂 Nice to meet you all! 
+
